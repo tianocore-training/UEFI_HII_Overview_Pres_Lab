@@ -1,6 +1,6 @@
 ---?image=assets/images/gitpitch-audience.jpg
 @title[Platform Build Win Lab]
-<br><br><br><br><br>
+<br><br><br><br>
 ## <span class="gold"   >UEFI & EDK II Training</span>
 
 #### UEFI HII Overview
@@ -807,11 +807,11 @@ Note:
 @title[Reference]
 ### <p align="right"><span class="gold" >Reference</span></p>
 <br>
-<p style="line-height:50%"><span style="font-size:0.9em" >Unified Extensible Firmware Interface Specification, Version 2.7, <a href="http://www.uefi.org">http://www.uefi.org</a> (UEFI 2.1 or greater needed for HII)</span></p>
+<p style="line-height:90%"><span style="font-size:0.9em" >Unified Extensible Firmware Interface Specification, Version 2.7, <a href="http://www.uefi.org">http://www.uefi.org</a> (UEFI 2.1 or greater needed for HII)</span></p>
 <br>
-<p style="line-height:50%"><span style="font-size:0.9em" >VFR Programming Language 1.92, <a href="https://github.com/tianocore/tianocore.github.io/wiki/EDK-II-Specifications#vfr">EDK-II-Specifications#vfr </a>  </span> </p>
+<p style="line-height:90%"><span style="font-size:0.9em" >VFR Programming Language 1.92, <a href="https://github.com/tianocore/tianocore.github.io/wiki/EDK-II-Specifications#vfr">EDK-II-Specifications#vfr </a>  </span> </p>
 <br>
-<p style="line-height:50%"><span style="font-size:0.9em" >Build Spec 1.28,   <a href="https://github.com/tianocore/tianocore.github.io/wiki/EDK-II-Specifications#build">EDK-II-Specifications#build </a> </span> </p>
+<p style="line-height:90%"><span style="font-size:0.9em" >Build Spec 1.28,   <a href="https://github.com/tianocore/tianocore.github.io/wiki/EDK-II-Specifications#build">EDK-II-Specifications#build </a> </span> </p>
 
 
 
