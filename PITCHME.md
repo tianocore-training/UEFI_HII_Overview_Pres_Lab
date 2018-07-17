@@ -793,8 +793,8 @@ Note:
 <div class="left1">
 <span style="font-size:0.8em" >Use the Lab guide and follow the steps<br>Adding HII to the UEFI Driver for the UEFI Driver Wizard Lab</span>
 <ul>
-  <li> <span style="font-size:0.7em" >link to <a href="">PDF Linux</a></span> </li>
-  <li> <span style="font-size:0.7em" >link to <a href="">PDF Windows</a></span> </li>
+  <li> <span style="font-size:0.7em" >link to <a href="https://legacy.gitbook.com/book/laurie0131/uefi_driver_hii_linux_lab_guide/details">PDF Linux</a></span> </li>
+  <li> <span style="font-size:0.7em" >link to <a href="https://legacy.gitbook.com/book/laurie0131/uefi_driver_hii_win_lab_guide/details">PDF Windows</a></span> </li>
 </ul>
 </div>
 <div class="right1">
