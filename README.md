@@ -31,5 +31,5 @@
 # UEFI_HII_Overview_pres
 UEFI Human Interface Infrastructure (HII) Overview
 
-To see the Slides goto https://gitpitch.com/Laurie0131/UEFI_HII_Overview_pres/master#/
+To see the Slides goto https://gitpitch.com/tianocore-training/UEFI_HII_Overview_pres/master#/
 
